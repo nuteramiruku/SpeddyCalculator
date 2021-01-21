@@ -1,2 +1,0 @@
-# SpeddyCalculator
-SpeddyHesapMakinesi
